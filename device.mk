@@ -183,7 +183,8 @@ PRODUCT_PACKAGES += \
     liboverlay \
     libqdMetaData.system \
     libgenlock \
-    libtinyxml
+    libtinyxml \
+    libvulkan
 
 # DRM
 PRODUCT_PACKAGES += \
