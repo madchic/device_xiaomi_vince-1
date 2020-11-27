@@ -1204,8 +1204,8 @@ vendor/firmware/wlan/prima/WCNSS_cfg.dat|1672af1c3d4f04804f31d4b79a6e59ea4a8b192
 vendor/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin|5e97baa4957609519835074071c879fbaf462266
 
 # WiFi Display - from LA.UM.8.6.2.r1-08100-89xx.0
-lib/libmmrtpdecoder.so|a990ab20d1c970c827b8e12fe377c4965da7b7f5
-lib/libmmrtpencoder.so|c1d969d3600a9b9a7505e4d1f18ab3ac0f111406
+system_ext/lib/libmmrtpdecoder.so|a990ab20d1c970c827b8e12fe377c4965da7b7f5
+system_ext/lib/libmmrtpencoder.so|c1d969d3600a9b9a7505e4d1f18ab3ac0f111406
 
 # WiFi Display - from LA.UM.9.6.2.r1-02800-89xx.0
 bin/wfdservice|96a583c0efeaf90352b26c20c904ee156238b90f
